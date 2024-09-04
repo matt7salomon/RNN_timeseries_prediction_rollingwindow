@@ -1,11 +1,5 @@
 # RNN based Timeseries Forecasting with a Rolling Window
 
-Here’s a comprehensive `README.md` file for a GitHub repository that includes the code from your `RNN_project.ipynb` notebook. This file assumes the project involves time series prediction using RNNs.
-
----
-
-# Time Series Forecasting Using Recurrent Neural Networks (RNNs)
-
 ## Overview
 
 This repository contains code and resources for building, training, and evaluating Recurrent Neural Networks (RNNs) for time series forecasting tasks. The project demonstrates how to preprocess time series data, build a basic RNN model using TensorFlow/Keras, and evaluate the model's performance.

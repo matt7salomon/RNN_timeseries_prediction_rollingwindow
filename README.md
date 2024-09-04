@@ -1,4 +1,4 @@
-# RNN based Timeseries Forecasting with a Rolling Window
+# Univariate RNN based Timeseries Forecasting with a Rolling Window
 
 ## Overview
 

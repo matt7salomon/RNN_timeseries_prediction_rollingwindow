@@ -45,8 +45,8 @@ Before you begin, ensure you have met the following requirements:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/RNN_TimeSeries_Forecasting.git
-   cd RNN_TimeSeries_Forecasting
+   git clone https://github.com/matt7salomon/RNN_timeseries_prediction_rollingwindow.git
+   cd RNN_timeseries_prediction_rollingwindow
    ```
 
 2. Create and activate a virtual environment (optional but recommended):
